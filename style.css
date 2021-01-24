@@ -1,0 +1,23 @@
+body {
+    background-color: Coral;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+h1 {
+    color: Gold;
+
+}
+h2 {
+    color: Gold;
+
+}
+h3 {
+    color: Gold;
+
+}
+h4 {
+    color: Gold;
+
+}
